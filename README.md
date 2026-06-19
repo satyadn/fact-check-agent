@@ -4,7 +4,7 @@ A web application that automatically fact checks claims found in PDF documents.
 
 Features:
 
-• PDF-based claim extraction
+• PDF based claim extraction
 • Automatic identification of factual statements, statistics, dates, and numerical claims
 • Real time web verification using live search results
 • Evidence-backed fact-check reports
