@@ -6,7 +6,7 @@ Features:
 
 • PDF-based claim extraction
 • Automatic identification of factual statements, statistics, dates, and numerical claims
-• Real-time web verification using live search results
+• Real time web verification using live search results
 • Evidence-backed fact-check reports
 • Simple drag-and-drop document upload interface
 • Deployed web application accessible through a public URL
